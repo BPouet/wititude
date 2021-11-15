@@ -1,7 +1,7 @@
 # Wititude
-Altimeter with WIFI AP  
+Altimeter with WIFI ACCESS POINT
 
-====
+====  
 This altimeter is of a NODE MCU 8266 with BMP280.  
 The objective is to activate the altimeter, launch the rocket and when you find it, you connect to wifi to get MAX ALTITUDE.  
 I was tired of opening the payload to check the altimeter each time and had problem with other wireless module.  
